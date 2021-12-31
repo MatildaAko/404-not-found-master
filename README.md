@@ -36,11 +36,11 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
--   Where can I see your demo? A simple responsive website built with HTML and CSS
+-   Where can I see your demo? https://matilda-ako-404-project.netlify.app
 -   What was your experience? This was pretty simple to do as I've just been taught how to use flexbox properly which I have done my best to implement. Although it was simple, I know it is not perfect and will keep learning more to perfect my skills.
 -   What have you learned/improved? I improved my flexbox skills to make this responsive, I also feel I have improved knowing when to use media queries based on the website look and feel.
 -   Your wisdom? :) Just start, work on the HTML and make changes on it as needed, build the basic CSS layout then change it to make it look good.
